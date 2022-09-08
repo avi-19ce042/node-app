@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "app-store",
+        "JWT_KEY": "decode"
+    }
+}
